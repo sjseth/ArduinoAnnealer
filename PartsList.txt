@@ -1,0 +1,14 @@
+NEMA 23 High Torque https://www.amazon.com/Torque-Stepper-Motor-425oz-Router/dp/B00PNEPW4C/ref=sr_1_1
+•	TB6600 Stepper Driver - https://www.amazon.com/UsongShine-Stepper-Controller-Arduino-Printer/dp/B07HHS14VQ/ref=sr_1_3
+•	Arduino Pro Mini w/ CP2102 (you can get them separate and save money, I usually buy them in a 3 or 5 pack in case you burn one. You can get the cp2102 separate as well. https://www.amazon.com/ALAMSCN-Module-Atmega328-Arduino-Compatible/dp/B08V8YGR1R/ref=sr_1_5
+•	I2C 1602 LCD Display Module 16X2 https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6/ref=sr_1_3
+•	KY-040 Rotary Encoder Module  https://www.amazon.com/Taiss-KY-040-Encoder-15%C3%9716-5-Arduino/dp/B07F26CT6B/ref=sr_1_6
+•	Heavy Duty Toggles  https://www.amazon.com/Nilight-Rocker-Toggle-Switch-Waterproof/dp/B078KBC5VH/ref=sr_1_1_sspa
+•	12v rocker switch  (you can use any type of switch for main power) https://www.amazon.com/APIELE-Rocker-Switch-Automotive-Pre-Wired/dp/B08R5PLDBP/ref=sr_1_4
+•	12V 5A powersupply  https://www.amazon.com/gp/product/B0711Q5B49/ref=ppx_yo_dt_b_search_asin_title
+•	12v to 5v stepdown converter. https://www.amazon.com/Converter-DROK-Voltage-Regulator-Waterproof/dp/B07P663XJV/ref=sr_1_1_sspa
+•	360 servo  https://www.amazon.com/Treedix-MG996R-Servo-High-Torque-Helicopter/dp/B08743N181/ref=sr_1_9
+•	Panel Mount 12v connector  https://www.amazon.com/outstanding-5-Pack-Threaded-Connector-Adapter/dp/B07C46XMPT/ref=sr_1_5
+•	(2) Torch Nozzles https://www.amazon.com/gp/product/B07NVMY43D
+•	10mm flange - https://www.amazon.com/Coupling-Connector-Coupler-Accessory-Fittings/dp/B08334DK91/ref=sr_1_2
+•	Lazy susan bearing - https://www.amazon.com/gp/product/B00ZSQSWTM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
